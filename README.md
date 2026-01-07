@@ -16,4 +16,5 @@
 - The Translate should call upon the name _playerTransform instead. 
 
 ### Activity 3 
-[MG1 Breakdown Google Doc] (https://docs.google.com/document/d/1FBSt1IHePMj8a95307bpUR8aoZhdvcjZGS16ntWBc2M/edit?tab=t.0)
+[MG1 Breakdown Google Doc] 
+(https://docs.google.com/document/d/1FBSt1IHePMj8a95307bpUR8aoZhdvcjZGS16ntWBc2M/edit?tab=t.0)
