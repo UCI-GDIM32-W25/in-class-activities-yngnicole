@@ -10,7 +10,7 @@
 - 2
 - These lines of code prints the message "hello world" every frame.  
 - Monobehavior
-- These lines of code prints the message x = 10
+- These lines of code prints the message x = 10 upon the start of the game. 
 - The 10 highlighted is an argument and the second highlighted part is a parameter. The purpose of it is to call upon the parameter.  
 - The Translate is calling upon the class
 - The Translate should call upon the _playerTransform instead. 
