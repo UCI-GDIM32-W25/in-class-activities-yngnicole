@@ -1,5 +1,9 @@
 # GDIM32 In Class Activities
-## Instructions
+## Week 1
+- Making sure your itch page is actually published.
+- Start your minigame earlier instead of two days before the deadline
+- Make sure to finish all minigames or code because you can use previous code to help with future assignments instead of rewriting completely new code. 
+
 Put each week's activities under new headers like the one shown above. Headers are created with the # symbol. More # symbols = smaller header.
 
 
