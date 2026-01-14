@@ -23,7 +23,7 @@
 ![unnamed](https://github.com/user-attachments/assets/e5bbdc17-bb7d-4f86-9cd7-e9b98ee88d38)
 
 ### Activity 2
-[MG2 Repository Link](https://github.com/UCI-GDIM32-W25/mg2-yngnicole/commit/d84fc64e3f20da0879ca24ac222de29335516a82)
+[MG2 Repository Link](https://github.com/UCI-GDIM32-W25/mg2-yngnicole/commit/558cc7e4cc74ba566067ebc85d79c8bb6ba201e9)
 
 I created a coin prefab, created a ground for the penguin sprite to be on, and put colliders on both the penguin and ground so that the penguin won't fall through the map. I also set up 
 the outline of three scripts, PenguinPlayer, GameController, and coin with comments about what attributes and actions the GameObject needs. 
