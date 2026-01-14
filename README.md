@@ -20,5 +20,6 @@
 
 ## Week 2
 ### Activity 1 
+![unnamed](https://github.com/user-attachments/assets/e5bbdc17-bb7d-4f86-9cd7-e9b98ee88d38)
 
 ### Activity 2
