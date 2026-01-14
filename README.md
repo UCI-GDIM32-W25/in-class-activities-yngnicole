@@ -20,6 +20,7 @@
 
 ## Week 2
 ### Activity 1 
+![unnamed](https://github.com/user-attachments/assets/e5bbdc17-bb7d-4f86-9cd7-e9b98ee88d38)
 
 ### Activity 2
 [MG2 Repository Link](https://github.com/UCI-GDIM32-W25/mg2-yngnicole/commit/d84fc64e3f20da0879ca24ac222de29335516a82)
