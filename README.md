@@ -27,3 +27,9 @@
 
 I created a coin prefab, created a ground for the penguin sprite to be on, and put colliders on both the penguin and ground so that the penguin won't fall through the map. I also set up 
 the outline of three scripts, PenguinPlayer, GameController, and coin with comments about what attributes and actions the GameObject needs. 
+
+## Week 3
+### Activity 0-2
+Audrey Hu
+
+### Activity 3
