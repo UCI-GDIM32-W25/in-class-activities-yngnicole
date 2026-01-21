@@ -36,8 +36,7 @@ public class Villager : Npc
 {
 	public override void Talk(string playerName)
 	{
-		base.Talk(playerName);
-		Debug.Log("nice");
+		Debug.Log("HI" + playerName);
 	}
 }
 
@@ -46,7 +45,6 @@ public class Enemy : Npc
 {
     public override void Talk(string playerName)
     {
-        base.Talk(playerName);
-		Debug.Log("evil");
+		Debug.Log("BYE" + playerName);
     }
 }
