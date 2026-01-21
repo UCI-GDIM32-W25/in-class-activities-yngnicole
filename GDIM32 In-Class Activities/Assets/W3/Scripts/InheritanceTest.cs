@@ -37,6 +37,7 @@ public class Villager : Npc
 	public override void Talk(string playerName)
 	{
 		base.Talk(playerName);
+		Debug.Log("nice");
 	}
 }
 
