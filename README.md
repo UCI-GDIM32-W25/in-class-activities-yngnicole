@@ -43,3 +43,7 @@ Ransom Liu
 When we added multiple Locator objects in the Scene and ran the game, only one of the Locator objects had the locator script. 
 This is because in the Locator script, we wrote code to ensure that the Locator object doesn't repeat twice and that if it does, it
 is destroyed. 
+
+### Activity 2 
+![unnamed](https://github.com/user-attachments/assets/901da98f-e109-4641-b886-41ba9f5b749c)
+
