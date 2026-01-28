@@ -38,3 +38,8 @@ Audrey Hu
 ## Week 2
 ### Activity 0 
 Ransom Liu 
+
+### Activity 1 
+When we added multiple Locator objects in the Scene and ran the game, only one of the Locator objects had the locator script. 
+This is because in the Locator script, we wrote code to ensure that the Locator object doesn't repeat twice and that if it does, it
+is destroyed. 
