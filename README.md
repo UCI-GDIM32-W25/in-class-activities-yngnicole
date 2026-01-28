@@ -48,3 +48,5 @@ is destroyed.
 ![unnamed](https://github.com/user-attachments/assets/901da98f-e109-4641-b886-41ba9f5b749c)
 
 ### Activity 3
+I created a Unity project and uploaded the spritesheets. I also created the scripts for Seagul Player, GameController, UI, Audio, and Pipes. 
+[MG4 Repository Link](
