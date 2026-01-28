@@ -49,4 +49,4 @@ is destroyed.
 
 ### Activity 3
 I created a Unity project and uploaded the spritesheets. I also created the scripts for Seagul Player, GameController, UI, Audio, and Pipes. 
-[MG4 Repository Link](
+[MG4 Repository Link](https://github.com/yngnicole/HW4/commit/7db441a97d9a5d789bc79cd506c4c6f44f4419d5)
