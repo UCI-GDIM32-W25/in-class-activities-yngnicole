@@ -12,8 +12,8 @@ public class W4Pigeon : MonoBehaviour
     // [SerializeField] private W4VFX _vfx;
 
     // HERE, add an event to tell other objects that the pigeon coo'd!
-    public delegate void CooEvent ();
-    public event CooEvent PigeonCood;
+    public delegate void CooDelegate ();
+    public event CooDelegate PigeonCood;
 
     // don't change the code in this method!
     void Update()
@@ -35,7 +35,7 @@ public class W4Pigeon : MonoBehaviour
         // HERE, you'll want to REMOVE the code to "tell seagulls", "tell UI", and "tell VFX"
         // instead, fire your coo event!
 
-        PigeonCood.Invoke();
+        PigeonCood?.Invoke();
         
         // tell seagulls
         //foreach(W4Seagull seagull in _seagulls)
