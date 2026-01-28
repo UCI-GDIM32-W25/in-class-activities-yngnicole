@@ -34,3 +34,7 @@ Audrey Hu
 
 ### Activity 3
 ![unnamed](https://github.com/user-attachments/assets/231094aa-5e1d-4886-834f-5afe5133b4d3)
+
+## Week 2
+### Activity 0 
+Ransom Liu 
