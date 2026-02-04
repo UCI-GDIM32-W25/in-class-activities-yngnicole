@@ -56,4 +56,4 @@ I created a Unity project and uploaded the spritesheets. I also created the scri
 what do you think of the design of these interfaces and abstract classes? Would you keep it the same, or change it, if you were building a project with items like these?
 
 I think that the design is mostly efficient. If I had to write it in a different way, I would change the Use method in Item class into a non-abstract method so that the methody body
-doesn't need to be repeated in the child classes. 
+doesn't need to be repeated in the child classes. Also I would write the variable private float _durability in the Use() class and have child classes inherit it.
