@@ -90,6 +90,7 @@ Scenario 2:
 	- points earned by players(money for gun)
 	- killing enemies
 	- planting spike
+	- actions
 - Inheritance with polymorphism (basic parent class, abstract class, interface)
 	- abstract player class: died, movement, using abilities, shooting 
 	- interface: pickup gun, pickup spike
