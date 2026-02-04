@@ -57,6 +57,14 @@ I think that the design is mostly efficient. If I had to write it in a different
 doesn't need to be repeated in the child classes. Also I would write the variable private float _durability in the Use() class and have child classes inherit it.
 
 ### Activity 2
+- model
+	- scriptable object: item, enemy stats
+- view
+	- enemy dialouge
+- controller
+	- player
+
+### Activity 3
 Design Patterns
 Model-View-Controller with C# events
 Inheritance with polymorphism
@@ -76,7 +84,6 @@ Scenario 1:
 	- starting timing
 	- sprites
 	- prefab
-
 
 
 Scenario 2:
@@ -109,3 +116,7 @@ Scenario 3:
 	- mining behavior
 	- plant grow states, seed, sapling, tree 
 	- actions that player is in
+
+### Activity 4
+Attendance: 
+[Proposal](
