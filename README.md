@@ -66,6 +66,18 @@ Singleton
 ScriptableObjects
 
 Scenario 1:
+- model
+- view
+- controller
+- inheritance
+- finite state machine with c# enums
+- singleton
+- scriptableobjects 
+	- starting timing
+	- sprites
+	- prefab
+
+
 
 Scenario 2:
 - Model: 
@@ -91,8 +103,8 @@ Scenario 2:
 	- health
 	- knife
 
-
-
-
-
 Scenario 3: 
+- finite state machine enums
+	- mining behavior
+	- plant grow states, seed, sapling, tree 
+	- actions that player is in
