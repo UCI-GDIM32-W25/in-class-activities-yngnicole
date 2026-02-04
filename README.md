@@ -118,5 +118,5 @@ Scenario 3:
 	- actions that player is in
 
 ### Activity 4
-Attendance: 
+Attendance: Evelina Wang, Ziying Huang, Nicole Yang
 [Proposal](
