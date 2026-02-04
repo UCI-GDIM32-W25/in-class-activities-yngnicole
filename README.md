@@ -35,7 +35,7 @@ Audrey Hu
 ### Activity 3
 ![unnamed](https://github.com/user-attachments/assets/231094aa-5e1d-4886-834f-5afe5133b4d3)
 
-## Week 2
+## Week 4
 ### Activity 0 
 Ransom Liu 
 
@@ -50,3 +50,12 @@ is destroyed.
 ### Activity 3
 I created a Unity project and uploaded the spritesheets. I also created the scripts for Seagul Player, GameController, UI, Audio, and Pipes. 
 [MG4 Repository Link](https://github.com/yngnicole/HW4/commit/7db441a97d9a5d789bc79cd506c4c6f44f4419d5)
+
+## Week 5
+### Activity 1 
+what do you think of the design of these interfaces and abstract classes? Would you keep it the same, or change it, if you were building a project with items like these?
+
+I think that the design is efficient. If I had to write it in a different way, I would put a Use(); method also in the IBreakable interface because 
+if an item is breakable then it needs to be useable first. Also this way, the Axe and Torch won't need to inherit from both IBreakable and Item since this script is so simple. 
+Also instead of using an abstract class, I might use a normal parent class where the methods are defined in the parent class and called in the child class because
+the method bodies are the same. 
