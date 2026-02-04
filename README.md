@@ -55,7 +55,5 @@ I created a Unity project and uploaded the spritesheets. I also created the scri
 ### Activity 1 
 what do you think of the design of these interfaces and abstract classes? Would you keep it the same, or change it, if you were building a project with items like these?
 
-I think that the design is efficient. If I had to write it in a different way, I would put a Use(); method also in the IBreakable interface because 
-if an item is breakable then it needs to be useable first. Also this way, the Axe and Torch won't need to inherit from both IBreakable and Item since this script is so simple. 
-Also instead of using an abstract class, I might use a normal parent class where the methods are defined in the parent class and called in the child class because
-the method bodies are the same. 
+I think that the design is mostly efficient. If I had to write it in a different way, I would change the Use method in Item class into a non-abstract method so that the methody body
+doesn't need to be repeated in the child classes. 
