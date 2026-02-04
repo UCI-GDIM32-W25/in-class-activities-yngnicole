@@ -53,7 +53,46 @@ I created a Unity project and uploaded the spritesheets. I also created the scri
 
 ## Week 5
 ### Activity 1 
-what do you think of the design of these interfaces and abstract classes? Would you keep it the same, or change it, if you were building a project with items like these?
-
 I think that the design is mostly efficient. If I had to write it in a different way, I would change the Use method in Item class into a non-abstract method so that the methody body
 doesn't need to be repeated in the child classes. Also I would write the variable private float _durability in the Use() class and have child classes inherit it.
+
+### Activity 2
+Design Patterns
+Model-View-Controller with C# events
+Inheritance with polymorphism
+Basic parent class, abstract class, and/or interface
+Finite State Machine with C# enums
+Singleton
+ScriptableObjects
+
+Scenario 1:
+
+Scenario 2:
+- Model: 
+	- data about abilities
+	- data about gun (recoil, spray..)
+- View: 
+	- The gun skins, gun buddies, knife skins, gun animations, 
+	- animations, character animations, sound, game ui point text
+- Controller: 
+	- points earned by players(money for gun)
+	- killing enemies
+	- planting spike
+- Inheritance with polymorphism (basic parent class, abstract class, interface)
+	- abstract player class: died, movement, using abilities, shooting 
+	- interface: pickup gun, pickup spike
+- finite state machine with c# enums 
+	- animation: walk, run, crouch, shoot, using abilities
+- singleton 
+	- GameController
+	- Player
+- scriptableObjects 
+	- weapons
+	- health
+	- knife
+
+
+
+
+
+Scenario 3: 
