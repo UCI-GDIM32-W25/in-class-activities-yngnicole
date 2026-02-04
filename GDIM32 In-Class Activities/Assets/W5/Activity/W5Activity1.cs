@@ -96,11 +96,8 @@ public class Torch : Item, IBreakable {
 
 	public void Break()
 	{
-
-	}
-	public void BreakItem () {
-		Debug.Log("torch is broken!");
-	}
+        Debug.Log("torch is broken!");
+    }
 	
 	public override void Use () {
 		Debug.Log("lighting area with torch");
