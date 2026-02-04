@@ -83,7 +83,7 @@ public class ElvenSword : Item {
 
 public class Torch : Item, IBreakable {
 
-	private float _durability;
+	private float _durability = 1f;
 	public void Damage (float damage) {
 		_durability -= damage;
 		Debug.Log("torch now has " + _durability + " durability remaining");
