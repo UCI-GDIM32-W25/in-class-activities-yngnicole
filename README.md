@@ -121,8 +121,12 @@ Scenario 3:
 Attendance: Evelina Wang, Ziying Huang, Nicole Yang
 [Proposal](https://docs.google.com/document/d/10HReV1LS2bKpFumSkCfVwM0uvrhOadVoLUmLjYf7iTk/edit?tab=t.0)
 
-## Week6
+## Week 6
 ### Activity 1 
+- The merge conflict tool is going to help with the final project so that if multiple people write code in the same line, it won't break the game. We can see 
+what code overlaps and change or delete whatever is not needed.
+- The profiler tool can help figure out what method is taking longer to execute and causing frame drops. For our final project, it can ensure that the game runs smoothly. 
+- 
 
 
 ### Activity 2 
