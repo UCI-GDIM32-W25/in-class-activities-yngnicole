@@ -127,7 +127,8 @@ Attendance: Evelina Wang, Ziying Huang, Nicole Yang
 - The merge conflict tool is going to help with the final project so that if multiple people write code in the same line, it won't break the game. We can see 
 what code overlaps and change or delete whatever is not needed.
 - The profiler tool can help figure out what method is taking longer to execute and causing frame drops. For our final project, it can ensure that the game runs smoothly. 
-- 
+- The gizmos tool can help visualize the direction a gameobject is faciing towards when it collides with an object. It can help in our final project to figure out when the player is in the line of sight of the scary object to trigger an animation.
+- Breakpoints can be used in our final project to figure out specifically what code is not working and where. 
 
 
 ### Activity 2 
