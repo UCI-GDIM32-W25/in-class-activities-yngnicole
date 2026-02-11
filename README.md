@@ -119,4 +119,12 @@ Scenario 3:
 
 ### Activity 4
 Attendance: Evelina Wang, Ziying Huang, Nicole Yang
-[Proposal](
+[Proposal](https://docs.google.com/document/d/10HReV1LS2bKpFumSkCfVwM0uvrhOadVoLUmLjYf7iTk/edit?tab=t.0)
+
+## Week6
+### Activity 1 
+
+
+### Activity 2 
+Attendance: Evelina Wang, Ziying Huang, Nicole Yang
+[Final Draft](https://docs.google.com/document/d/10HReV1LS2bKpFumSkCfVwM0uvrhOadVoLUmLjYf7iTk/edit?tab=t.0)
