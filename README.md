@@ -119,6 +119,7 @@ Scenario 3:
 
 ### Activity 4
 Attendance: Evelina Wang, Ziying Huang, Nicole Yang
+
 [Proposal](https://docs.google.com/document/d/10HReV1LS2bKpFumSkCfVwM0uvrhOadVoLUmLjYf7iTk/edit?tab=t.0)
 
 ## Week 6
@@ -131,4 +132,5 @@ what code overlaps and change or delete whatever is not needed.
 
 ### Activity 2 
 Attendance: Evelina Wang, Ziying Huang, Nicole Yang
+
 [Final Draft](https://docs.google.com/document/d/10HReV1LS2bKpFumSkCfVwM0uvrhOadVoLUmLjYf7iTk/edit?tab=t.0)
