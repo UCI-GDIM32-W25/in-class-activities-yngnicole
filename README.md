@@ -152,3 +152,6 @@ Attendance: Evelina Wang, Ziying Huang, Nicole Yang
 [Task list](https://docs.google.com/document/d/14oNVjOULok9GKOuAMz6FifVQNZexjDqA_J2JGHLxH9M/edit?usp=sharing)
 
 ### Activity 5
+[Commit](https://github.com/ZiyingHuang3/GDIM32-Final/commit/8f9775bf5dc01cc879d57d27525045d95144a369) 
+
+I made the player gameObject and the player script. And then I got stuck on a problem where my visual studio is not working properly.
