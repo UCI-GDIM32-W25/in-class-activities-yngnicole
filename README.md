@@ -135,3 +135,14 @@ what code overlaps and change or delete whatever is not needed.
 Attendance: Evelina Wang, Ziying Huang, Nicole Yang
 
 [Final Draft](https://docs.google.com/document/d/10HReV1LS2bKpFumSkCfVwM0uvrhOadVoLUmLjYf7iTk/edit?tab=t.0)
+
+## Week 7
+### Activity 1
+We learn that raycasting is useful to check is a gameobject is aggroed due to the line of site to the player. Once the player is in the line of site of the gameObject, then that gameObject will start chasing
+it. We learn that NPC state machine is useful to check if an NPC is in what states. Such as if the duck is in wandering or aggroed state. State machine is useful because it makes sure that the duck can only
+be in one state at a time. 
+
+### Activity 2 
+Attendance: Evelina Wang, Ziying Huang, Nicole Yang
+
+### Activity 3
