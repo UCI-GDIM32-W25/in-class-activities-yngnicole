@@ -146,7 +146,7 @@ be in one state at a time.
 Attendance: Evelina Wang, Ziying Huang, Nicole Yang
 
 ### Activity 3
-
+<img width="2360" height="1640" alt="unnamed" src="https://github.com/user-attachments/assets/1912bf17-704f-4d2e-b7f9-8ebcc0d7af93" />
 
 ### Activity 4
 [Task list](https://docs.google.com/document/d/14oNVjOULok9GKOuAMz6FifVQNZexjDqA_J2JGHLxH9M/edit?usp=sharing)
