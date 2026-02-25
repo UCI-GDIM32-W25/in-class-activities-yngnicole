@@ -177,3 +177,4 @@ cameria spins after the game ends.
 The task I will be working on is fixing the wall collider, and colliders on the NPC and fixing the camera rotation that pops up randomly. 
 
 ### Activity 5
+[Commit](https://github.com/ZiyingHuang3/GDIM32-Final/commit/c8e1ea5f6376ca30dcc9985f1619b6c9936c69f0)
