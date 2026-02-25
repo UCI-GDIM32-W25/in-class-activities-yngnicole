@@ -155,3 +155,13 @@ Attendance: Evelina Wang, Ziying Huang, Nicole Yang
 [Commit](https://github.com/ZiyingHuang3/GDIM32-Final/commit/8f9775bf5dc01cc879d57d27525045d95144a369) 
 
 I made the player gameObject and the player script. And then I got stuck on a problem where my visual studio is not working properly.
+
+## Week 8 
+### Activity 1
+On the unity assets store, we can see what rendering pipeline the assets are compatible with in the description. 
+Post processing affects are shaders that affect look of entire screen not just one specfic asset. To install it, you go to package managager.
+
+### Activity 2 
+Attendance:Evelina Wang, Ziying Huang, Nicole Yang
+
+### Activity 3 
