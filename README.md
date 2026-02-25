@@ -165,3 +165,15 @@ Post processing affects are shaders that affect look of entire screen not just o
 Attendance:Evelina Wang, Ziying Huang, Nicole Yang
 
 ### Activity 3 
+Buddy Team: Great Question
+The feedback that we got on our game is that the button to pickup items is not clear, movement might be a little fast, player can still move after they die, 
+animations still move after you die (they said they enjoyed seeing it and that it adds onto the fun), you can go through a specific wall in the map,
+we should have indication of losing heatlh like audio or flashing red, we shouold have indication of picking up item like audio, you can go through the mushroom NPC, 
+if you're behind Freddy, you do not take damage but the animation still plays. You can lose health multiple times near Freddy even when your somewhat away.
+You do not take damage in front of the blue guy but only when touching (the animation plays but does not take damage), Camera spins randomly sometimes, and 
+cameria spins after the game ends.
+
+### Activity 4 
+The task I will be working on is fixing the wall collider, and colliders on the NPC and fixing the camera rotation that pops up randomly. 
+
+### Activity 5
