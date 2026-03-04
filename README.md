@@ -188,7 +188,12 @@ dialogue in code, then you might need to create several branches that doesn't co
 Attendance: Evelina Wang, Ziying Huang, Nicole Yang
 
 ### Activity 3 
+From our playtesting, we found out that it is not clear what controls are used for moving, the dialogue with the NPC needs to be clicked twice intitally 
+to start the conversation, the dialogue never ends unless the player completes the full conversation, the rotation sensitivity is a little too high, and there 
+is a spot where Freddy's animation plays but the player never takes damage.
 
 ### Activity 4
+We are 80% done with our project and we are supposed to be about halfway done with our project. I think our project scope is reasonable and perhaps on 
+the similar side but I think my team is just very good at completing the mechanics quickly. 
 
 ### Activity 5 
