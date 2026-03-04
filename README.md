@@ -178,3 +178,17 @@ The task I will be working on is fixing the wall collider, and colliders on the 
 
 ### Activity 5
 [Commit](https://github.com/ZiyingHuang3/GDIM32-Final/commit/c8e1ea5f6376ca30dcc9985f1619b6c9936c69f0)
+
+## Week 9
+### Activity 1
+Using ScriptableObjects allows dialogue to be stored in data. This allows dialogue to connect back to specific nodes whereas if you write
+dialogue in code, then you might need to create several branches that doesn't connect back to nodes. 
+
+### Acitivty 2
+Attendance: Evelina Wang, Ziying Huang, Nicole Yang
+
+### Activity 3 
+
+### Activity 4
+
+### Activity 5 
