@@ -197,3 +197,5 @@ We are 80% done with our project and we are supposed to be about halfway done wi
 the similar side but I think my team is just very good at completing the mechanics quickly. 
 
 ### Activity 5 
+I adjusted the rotation sensitivity of the player and also added information about the movement keys in the start screen
+[Commit](https://github.com/ZiyingHuang3/GDIM32-Final/commit/7eed301d4764f6e8de80057720fd80fbc1b717c1)
