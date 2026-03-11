@@ -199,3 +199,17 @@ the similar side but I think my team is just very good at completing the mechani
 ### Activity 5 
 I adjusted the rotation sensitivity of the player and also added information about the movement keys in the start screen
 [Commit](https://github.com/ZiyingHuang3/GDIM32-Final/commit/7eed301d4764f6e8de80057720fd80fbc1b717c1)
+
+## Week 10
+### Activity 1 
+Attendance: Evelina Wang, Ziying Huang, Nicole Yang
+
+### Activity 2
+From our playtesting we found out that when you run out of time, the player can still move, when you die and restart the game, the start game button
+doesn't work, and we should make the escape screen fuller. 
+
+### Activity 3
+We are 90% done with our project and we should be around finishing our project because we only have one week left. This means that our project
+scope was managable and we planned well. 
+
+### Activity 4
